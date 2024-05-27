@@ -4,6 +4,7 @@ I'm Jorge Abarca Coto, student of Fidelitas University with big dreams about the
 I'm known for my versability, helpfulness, attentive to details and giving the 100% of my brain for every problem.
 
 Contact me:
+&nbsp;
 <a href="https://www.linkedin.com/in/jorge-abarca-coto-7939752b6/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.instagram.com/yorsh_ac/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
