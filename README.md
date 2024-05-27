@@ -5,6 +5,7 @@ I'm known for my versability, helpfulness, attentive to details and giving the 1
 
 Contact me:
 <br/>
+<br/>
 <a href="https://www.linkedin.com/in/jorge-abarca-coto-7939752b6/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
 &nbsp;
 <a href="https://www.instagram.com/yorsh_ac/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram"/></a>
