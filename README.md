@@ -5,9 +5,9 @@ I'm known for my versability, helpfulness, attentive to details and giving the 1
 
 Contact me:
 &nbsp;
-<a href="https://www.linkedin.com/in/jorge-abarca-coto-7939752b6/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="aswin-barath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jorge-abarca-coto-7939752b6/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
 &nbsp;
-<a href="https://www.instagram.com/yorsh_ac/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="aswin_barath_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yorsh_ac/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram"/></a>
 &nbsp;
 
 ## Coding languages.
