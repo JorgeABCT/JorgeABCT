@@ -12,7 +12,7 @@ I'm known for my versability, helpfulness, attentive to details and giving the 1
 ## Coding languages.
 <img src="https://skillicons.dev/icons?i=css,html,js"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=java,python,sql"/>
+<img src="https://skillicons.dev/icons?i=java,python,MySQL"/>
 <!--
 **JorgeABCT/JorgeABCT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
