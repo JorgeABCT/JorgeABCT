@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">Check some of my songs</h2>
+<h2 align="left">Check some cool songs</h2>
 
 ###
 
