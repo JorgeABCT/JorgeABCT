@@ -75,6 +75,6 @@
 ### 🎵 Listening To
 <p align="center">
   <a href="https://open.spotify.com/user/jorgegamer64-cr">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jorgegamer64-cr&count=4&unique=true" alt="Spotify Recently Played" />
+    ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=jorgegamer64-cr)
   </a>
 </p>  
