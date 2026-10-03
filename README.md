@@ -73,6 +73,8 @@
 ---
 
 ### 🎵 Listening To
-<div align="center">
-  [![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=jorgegamer64-cr&theme=spotify)](https://open.spotify.com/user/jorgegamer64-cr)
+<p align="center">
+  <a href="https://open.spotify.com/user/jorgegamer64-cr">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=jorgegamer64-cr&amp;theme=spotify" alt="Spotify recently played" width="400" />
+  </a>
 </p>
