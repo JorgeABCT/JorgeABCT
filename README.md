@@ -67,7 +67,6 @@
 
 <p align="center">
   <img src="https://github-stats-gules-ten.vercel.app/api?username=jorgeabct&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Jorge's GitHub Stats" height="150" />
-  <img src="https://github-stats-gules-ten.vercel.app/api/top-langs/?username=jorgeabct&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
