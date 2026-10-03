@@ -73,6 +73,4 @@
 ---
 
 ### 🎵 Listening To
-<p align="center">
-  ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=jorgegamer64-cr)
-</p>  
+[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=jorgegamer64-cr&theme=spotify)](https://open.spotify.com/user/jorgegamer64-cr)
