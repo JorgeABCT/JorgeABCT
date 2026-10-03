@@ -1,7 +1,7 @@
 # Hi there, I'm Jorge Abarca! 👋
 
 <p align="left">
-  <b>Software Engineer & Full-Stack / Mobile Developer</b> based in Costa Rica 🇨🇷
+  <b>Software Engineer & Full-Stack / Mobile Developer</b> based in Costa Rica
 </p>
 
 <p align="left">
