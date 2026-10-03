@@ -66,8 +66,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://https://github-stats-extended-kohl.vercel.app/api?username=jorgegamer64-cr&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Jorge's GitHub Stats" height="150" />
-  <img src="https://https://github-stats-extended-kohl.vercel.app/api/top-langs/?username=jorgegamer64-cr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://https://github-stats-extended-kohl.vercel.app/api?username=jorgeabct&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Jorge's GitHub Stats" height="150" />
+  <img src="https://https://github-stats-extended-kohl.vercel.app/api/top-langs/?username=jorgeabct&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
